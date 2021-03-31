@@ -1,0 +1,6 @@
+/.metadata/
+/RemoteSystemsTempFiles/
+/.jxbrowser-data/
+**/Debug
+**/.settings
+**/Release

@@ -3,7 +3,7 @@ A group project for Cyberphysical Design. We programmed a robot equipped with an
 
 Below is a list and brief description of relevant files.
 
-JackiFSMmain.c - the main control loop that runs until the robot is turned off
+JackiFSMmain.c - the main control loop that runs until the robot is turned off, utilizes a finite state machine for control
 
 Bump.c - detects phyisical activation of the robot's bump sensors using edge-triggered interrupts
 
